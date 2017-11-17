@@ -1,7 +1,7 @@
 {
   "name": "atom-swapi",
   "main": "./lib/my-package",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Atom package that transform you to a StarWars character",
   "keywords": [
     "StarWars"
