@@ -5,9 +5,6 @@
   "description": "A short description of your package",
   "keywords": [
   ],
-  "activationCommands": {
-    "atom-workspace": "my-package:toggle"
-  },
   "repository": "https://github.com/atom/my-package",
   "license": "MIT",
   "engines": {
