@@ -1,11 +1,12 @@
 {
-  "name": "my-package",
+  "name": "atom-swapi",
   "main": "./lib/my-package",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.0.1",
+  "description": "Atom package that transform you to a StarWars character",
   "keywords": [
+    "StarWars"
   ],
-  "repository": "https://github.com/atom/my-package",
+  "repository": "https://github.com/magicaljyy/atom-swapi",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
